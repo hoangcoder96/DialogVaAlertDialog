@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DialogVaAlertDialog</string>
+    <string name="btn_dialog">DiaLog</string>
+    <string name="btn_dongy">Đồng ý</string>
+    <string name="btn_khongdongy">Không</string>
+    <string name="alertdialog">AlertDialog</string>
+    <string name="texts">Bạn có muốn đăng xuất không!</string>
+</resources>
