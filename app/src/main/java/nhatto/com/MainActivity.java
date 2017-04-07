@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
     private void showAlertDialog() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("Nhatto.com");
+        builder.setCancelable(false);
         builder.setMessage("Bạn có muốn đăng xuất không!");
 
         builder.setNegativeButton("Đồng ý", new DialogInterface.OnClickListener() {
